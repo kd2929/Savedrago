@@ -8,17 +8,17 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "24250238",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "cb3f118ce5553dc140127647edcf3720",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "",
+      "value": "5900432090:AAGh66GjvNR0fnGCiOngV4rC5tg5pninmlU",
       "required": true
     },
     "MONGO_DB": {
@@ -28,22 +28,22 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "",
+      "value": "6175650047",
       "required": true
     },
     "SUDO_USERS": {
       "description": "Here fill other Admins id",
-      "value": "",
+      "value": "6175650047",
       "required": false
     },
     "CHANNEL_ID": {
       "description": "Enter Channel ID (-100) and make bot admin there",
-      "value": "",
+      "value": "-1002065733031",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Enter Log Channel/Group ID (-100) and make bot admin there",
-      "value": "",
+      "value": "-1002065733031",
       "required": true
     }
   },
